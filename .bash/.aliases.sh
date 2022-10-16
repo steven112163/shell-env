@@ -3,7 +3,7 @@
 
 # Common aliases
 alias al='alias'
-alias aliasrc="vim $HOME/aliases.sh"
+alias aliasrc="vim $HOME/.bash/aliases.sh"
 
 # Add common parameter
 alias mv='mv -i'

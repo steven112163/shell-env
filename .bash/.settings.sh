@@ -1,8 +1,8 @@
 #!/bin/bash
 # Settings
 
-source $HOME/.aliases.sh
-source $HOME/.statusbar.sh
+source $HOME/.bash/.aliases.sh
+source $HOME/.bash/.statusbar.sh
 
 export GREP_COLOR="1;33"
 export HISTCONTROL=ignoreboth
